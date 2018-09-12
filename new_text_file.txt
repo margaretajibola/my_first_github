@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi my name is Margaret
 I'm currently a second year student in Computer Engineering in Ottawa U
 I'm from Nigeria
+=======
+
+>>>>>>> ea680cbc45f6d828004d59263cf2ba2638c982e9
